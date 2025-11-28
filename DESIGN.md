@@ -69,7 +69,7 @@
 │ │ Icons    │  │ Business │  │ Careers  │  │ Cookies  │            │
 │ └──────────┘  └──────────┘  └──────────┘  └──────────┘            │
 │                                                                     │
-│ © 2024 NewsPortal. All rights reserved.  Made with ❤️ in India    │
+│  
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -355,68 +355,3 @@ hover:    Scale/translate on hover (0.2s)
 ```
 
 ---
-
-## Non-Plagiarism Statement
-
-### What We Did NOT Copy from LiveHindustan
-
-#### Layout & Structure
-❌ **NOT Copied**: Their multi-column asymmetric grid
-✅ **Our Choice**: Symmetric 4-column grid with consistent card sizes
-
-❌ **NOT Copied**: Their carousel-based hero section
-✅ **Our Choice**: Static hero with side-by-side layout
-
-❌ **NOT Copied**: Their sidebar navigation
-✅ **Our Choice**: Top navigation with horizontal category filter
-
-❌ **NOT Copied**: Their dense, information-heavy layout
-✅ **Our Choice**: Spacious, breathing room with generous margins
-
-#### Visual Design
-❌ **NOT Copied**: Their blue/teal color scheme
-✅ **Our Choice**: Red/orange color palette
-
-❌ **NOT Copied**: Their font choices
-✅ **Our Choice**: Inter font family
-
-❌ **NOT Copied**: Their card design with overlapping elements
-✅ **Our Choice**: Clean cards with clear boundaries
-
-❌ **NOT Copied**: Their heavy use of borders and dividers
-✅ **Our Choice**: Background colors for section separation
-
-#### Functionality
-❌ **NOT Copied**: Their page-based category navigation
-✅ **Our Choice**: Client-side filtering with smooth transitions
-
-❌ **NOT Copied**: Their ad-heavy layout
-✅ **Our Choice**: Clean, ad-free design focused on content
-
-❌ **NOT Copied**: Their complex header with multiple rows
-✅ **Our Choice**: Single-row minimal header
-
-### Our Original Design Decisions
-
-1. **Dark Mode First**: Built with dark mode as a first-class citizen
-2. **Animation-Rich**: Framer Motion for smooth, delightful interactions
-3. **Mobile-First**: Designed for mobile, enhanced for desktop
-4. **Accessibility**: WCAG compliant with proper focus states
-5. **Modern Stack**: Next.js 15, React 19, latest best practices
-6. **Performance**: Optimized images, static generation, minimal JS
-7. **Typography**: Larger text, better line height for comfortable reading
-8. **Whitespace**: Generous spacing for modern, clean aesthetic
-
-### Inspiration Sources (Not LiveHindustan)
-
-- **Medium**: Article page layout and reading experience
-- **The Verge**: Card-based grid system
-- **Stripe**: Color usage and shadows
-- **Tailwind UI**: Component patterns and spacing
-- **Modern SaaS apps**: Dark mode implementation
-
----
-
-## Conclusion
-
-This design is **completely original** and built from the ground up with modern web design principles. While we studied LiveHindustan for understanding news portal requirements, we deliberately chose different approaches for layout, colors, typography, spacing, and functionality to create a unique, contemporary news experience.

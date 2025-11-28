@@ -1,4 +1,4 @@
-# NewsPortal - Next.js 15 News Website
+# NewsBulletin - Next.js 15 News Website
 
 A modern, responsive news portal built with Next.js 15, React 19, and TailwindCSS. Features dark mode, SEO optimization, and a clean, original design.
 
